@@ -30,8 +30,8 @@ def check_account(username, password):
 
 def main():
     accounts = [
-        ("murphy2065", "Biggershaq99"),
-        ("mxkxkks", "Ericgreen12"),
+        ("Acc nil", "nil"),
+        ("Acc nil", "nil"),
     ]
     
     threads = []
